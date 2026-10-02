@@ -33,3 +33,10 @@ a,
     padding: 0 2rem;
   }
 }
+:root {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.v-application {
+  font-family: 'IBM Plex Sans', sans-serif !important;
+}
